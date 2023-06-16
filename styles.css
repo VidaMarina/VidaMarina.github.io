@@ -5,6 +5,10 @@
 *{
     font-family: "Poppins", sans-serif;
 }
+.class="reference-note" a{
+  color:rgb(50 98 115);
+
+}
 
 .bottom-links a{
     color:rgb(50 98 115);
